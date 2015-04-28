@@ -7,7 +7,7 @@ Orion is an open source framework built on meteor that makes complex as well as 
 
 ## Getting Started
 
-To start to you orion the first thing you need to do is install the core package and a admin template.
+To start your orion the first thing you need to do is install the core package and a admin template.
 Orion has 2 templates, one for [bootstrap](http://getbootstrap.com) and one for [materialize](http://materializecss.com).
 
 ```sh
